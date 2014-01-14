@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DeutchFlashCards</string>
+    <string name="tvChooseLesson">Выбор урока</string>
+    <string name="tvDifficulty">сложность</string>
+    <string name="tvCategory1">категория</string>
+    <string name="btnTranslate">Перевести</string>
+    <string name="btnKnow">Знали</string>
+    <string name="btnSkip">Пропустить</string>
+    <string name="btnDontKnow">Не знали</string>
+    <string name="tvYourResult">Ваш результат:</string>
+    <string name="tvCategory2">Ваша категория:</string>
+    <string name="btnToLesson">К выбору урока</string>
+</resources>
